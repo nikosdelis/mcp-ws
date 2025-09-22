@@ -26,6 +26,11 @@ dotnet new install Aspire.ProjectTemplates
 
 ---
 
+### NPX Command to run the inspector
+```bash
+npx @modelcontextprotocol/inspector dotnet run
+```
+
 ## 🎯 Workshop Milestones
 
 ### 🏃‍♂️ Milestone 1: First Server
